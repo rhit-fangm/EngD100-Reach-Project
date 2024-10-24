@@ -2,13 +2,13 @@
 
 ## Task for second prototype
 Michael: 
-- CAD the button
+- [ ] CAD the button
 
 Grace:
-- Create a word list
+- [ ] Create a word list
 
 Brahm:
-- Box sizing and layout CAD
+- [ ] Box sizing and layout CAD
   
 Scott:
-- Button word interface
+-  [ ] Button word interface
