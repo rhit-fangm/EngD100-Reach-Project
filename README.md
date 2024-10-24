@@ -2,7 +2,7 @@
 
 ## Task for second prototype
 Michael: 
-- CAD the 
+- CAD the button
 
 Grace:
 - Create a word list
