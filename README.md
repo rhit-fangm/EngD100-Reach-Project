@@ -11,4 +11,4 @@ Brahm:
 - [x] Box sizing and layout CAD
   
 Scott:
--  [ ] Button word interface
+-  [x] prototype documentations
